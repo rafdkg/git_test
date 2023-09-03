@@ -1,1 +1,4 @@
 This is a text file that I'm using to test git
+
+Multi-line messages seem to work fine! Now I'm going to
+see if the -m option work just as well.
